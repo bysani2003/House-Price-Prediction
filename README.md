@@ -20,7 +20,7 @@ Predicting house prices is a common problem in the field of real estate and fina
 
 ## Dataset
 
-The dataset used for this project can be found [here](link-to-your-dataset). It includes various features such as:
+The dataset used for this project can be found [here](). It includes various features such as:
 - Number of bedrooms
 - Square footage
 - Location
@@ -48,7 +48,7 @@ git clone https://github.com/your-username/house-price-prediction.git
 cd house-price-prediction
 ```
 
-2. Download the dataset from [here](link-to-your-dataset) and place it in the `data` directory.
+2. Download the dataset from [here](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) and place it in the `data` directory.
 
 ## Usage
 
